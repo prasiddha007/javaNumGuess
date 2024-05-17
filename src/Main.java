@@ -43,5 +43,6 @@ public class Main {
                 System.out.println("Nope! The number is lower. Try again.");
             }
         }
+        scanner.close();
     }
 }
